@@ -1,0 +1,4 @@
+tint2 &
+nitrogen --restore &
+xrandr -s 1920x1080
+
